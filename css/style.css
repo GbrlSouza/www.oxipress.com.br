@@ -360,6 +360,20 @@ section{
     background:none;
 }
 
+.contact .row form .textBox textarea{
+    display: block;
+    width: 100%;
+    padding: 0.8rem;
+    font-size: 1.7rem;
+    margin-bottom: 1rem;
+    border: 1px solid transparent;
+    background:var(--bg);
+    border:var(--border);   
+    min-height: 13rem;
+    resize: vertical;
+    color: #fff;
+}
+
 .blogs .box-container{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
