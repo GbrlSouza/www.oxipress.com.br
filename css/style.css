@@ -351,6 +351,10 @@ section{
     padding-left: 2rem;
 }
 
+.contact .row form h3 span{
+    color:var(--main-color);
+}
+
 .contact .row form .inputBox input{
     width: 100%;
     padding:2rem;
