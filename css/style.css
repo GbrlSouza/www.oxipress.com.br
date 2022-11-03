@@ -568,7 +568,11 @@ section{
     padding:1.5rem;
 }
 
-.footer .credit span a{
+.footer .credit a{
+    text-decoration: none;
+}
+
+.footer .credit a span{
     color:var(--main-color);
 }
 
