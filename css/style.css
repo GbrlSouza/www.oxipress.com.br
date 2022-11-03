@@ -568,7 +568,7 @@ section{
     padding:1.5rem;
 }
 
-.footer .credit span a{
+.footer .credit span{
     color:var(--main-color);
 }
 
