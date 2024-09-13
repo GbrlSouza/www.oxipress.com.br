@@ -1,6 +1,6 @@
 # Oxipress
 
-O **Oxxipress** é um site desenvolvido para a empresa metalúrgica localizada em Campinas, SP. O site é criado utilizando HTML, CSS e JavaScript, e tem como objetivo fornecer informações sobre a empresa e seus serviços.
+O **Oxipress** é um site desenvolvido para a empresa metalúrgica localizada em Campinas, SP. O site é criado utilizando HTML, CSS e JavaScript, e tem como objetivo fornecer informações sobre a empresa e seus serviços.
 
 ## 📄 Sobre o Projeto
 
